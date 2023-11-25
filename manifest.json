@@ -1,0 +1,23 @@
+{
+  "name": "Ticket Master",
+  "short_name": "TM",
+  "description": "receive, read and delete messages",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#00999B",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/ticket.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/ticket.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
